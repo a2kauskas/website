@@ -1,0 +1,46 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  h1, h2, h3, p, .price{
+    font-family: "Helvetica"
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+
+  #header{
+    background-image: url("../img/pattern.jpeg");
+  }
+
+  #header h1{
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+  }
+
+  #items h2{
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    
+  }
+
+  #brush{
+    background-color: mediumspringgreen;
+  }
+
+  #frame{
+    background-color: lightcoral;
+  }
+
+  #paint{
+    background-color: skyblue;
+  }
+
+  #items .price{
+    color: blue;
+    font-weight: bold;
+  }
